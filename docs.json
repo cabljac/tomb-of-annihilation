@@ -2,6 +2,6 @@
   "name": "tomb-of-annihilation",
   "theme": "#36B9B9",
   "sidebar": [
-    ["Sessions", ["0", "/session-0"]]
+    ["Sessions", ["testing", "/session-0"]]
   ]
 }
