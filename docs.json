@@ -3,10 +3,9 @@
   "theme": "#36B9B9",
   "sidebar": [
     [
-      "Configuration",
+      "Session Summaries",
       [
-        ["Overview", "/configuration/overview"],
-        ["Scripts", "/configuration/scripts"]
+        ["0", "/session-0"]
       ]
     ]
   ]
