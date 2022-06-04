@@ -1,7 +1,16 @@
 {
   "name": "tomb-of-annihilation",
   "theme": "#36B9B9",
-  "sidebar": [
-    ["Sessions", ["testing", "/session-0"]]
+  [
+    ["Overview", "/"],
+    ["Getting Started", "/getting-started"],
+    ["Filters", "/filters"],
+    [
+      "Configuration",
+      [
+        ["Overview", "/configuration/overview"],
+        ["Scripts", "/configuration/scripts"]
+      ]
+    ]
   ]
 }
